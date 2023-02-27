@@ -8,7 +8,7 @@ https://drive.google.com/file/d/1ei_INW6-xRK01xoYm4VoKAQ_pOx5t_e5/view
 
 ## Back-end Technology Stack
 
-+ Strapi (Headless Content Manager)
++ Strapi (Headless Content Management System)
 + ElephantSQL + PostgreSQL (Server)
 + Cloudinary (Image Hosting)
 
