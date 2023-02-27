@@ -1,0 +1,198 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "attributes": {
+        "title": "My page",
+        "slug": "my-page",
+        "createdAt": "2023-02-07T20:37:19.916Z",
+        "updatedAt": "2023-02-08T13:54:29.952Z",
+        "publishedAt": "2023-02-07T20:52:31.875Z",
+        "footer_text": "Built with ❤ by Elisa Amaral",
+        "sections": [
+          {
+            "id": 1,
+            "__component": "section.section-two-columns",
+            "title": "INTRO TITLE GOES HERE",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur necessitatibus amet atque dicta totam hic veritatis modi quas vero ullam, sunt cum explicabo unde harum? Velit nulla, perspiciatis debitis, officiis ducimus similique sapiente, fugit laudantium autem esse ipsum illo amet.",
+            "image": {
+              "data": {
+                "id": 2,
+                "attributes": {
+                  "name": "optimized-javascript-img.svg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 1030,
+                  "height": 730,
+                  "formats": null,
+                  "hash": "optimized_javascript_img_ff90d72897",
+                  "ext": ".svg",
+                  "mime": "image/svg+xml",
+                  "size": 30.77,
+                  "url": "https://res.cloudinary.com/dlc5b7iur/image/upload/v1675802221/optimized_javascript_img_ff90d72897.svg",
+                  "previewUrl": null,
+                  "provider": "cloudinary",
+                  "provider_metadata": {
+                    "public_id": "optimized_javascript_img_ff90d72897",
+                    "resource_type": "image"
+                  },
+                  "createdAt": "2023-02-07T20:37:03.169Z",
+                  "updatedAt": "2023-02-07T20:37:03.169Z"
+                }
+              }
+            },
+            "metadata": {
+              "id": 1,
+              "name": "home",
+              "section_id": "home",
+              "background": true
+            }
+          },
+          {
+            "id": 1,
+            "__component": "section.section-content",
+            "title": "FLEXBOX TEMPLATE",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime distinctio ipsa odit beatae earum alias in provident ea ratione, iure ab impedit eaque aut eligendi fugiat quibusdam deserunt ullam at iusto facilis. Veniam, repudiandae? At dolorem magnam labore saepe incidunt!\n\nDucimus, consequuntur modi nemo earum minus ipsa quidem. **Vel, porro magni, ut cupiditate **deleniti hic vitae quam expedita adipisci minima numquam consectetur aliquid facilis maxime eveniet consequatur obcaecati quos incidunt distinctio. In, fuga?\n\nTempore nesciunt inventore eius distinctio corrupti possimus magnam! _Numquam, optio aqua! _Totam neque expedita placeat repudiandae aut. Minus esse, optio eos quas unde provident quia, enim maxime amet atque autem dolores placeat nostrum ea ipsam qui rem tempora, cum nemo sequi? Totam nemo culpa iste odit.",
+            "metadata": {
+              "id": 3,
+              "name": "flexbox-template",
+              "section_id": "flexbox-template",
+              "background": false
+            }
+          },
+          {
+            "id": 2,
+            "__component": "section.section-grid",
+            "title": "GRID-ONE TEMPLATE",
+            "description": "Brief description goes here: lorem ipsum dolor sit amet",
+            "text_grid": [
+              {
+                "id": 1,
+                "title": "1 Content Title",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam nostrum corporis debitis, iste dolores saepe accusantium quas aqua enim quibusdam, facilis delectus obcaecati dolore optio reiciendis blanditiis architect."
+              },
+              {
+                "id": 2,
+                "title": "2 Content Title",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam nostrum corporis debitis, iste dolores saepe accusantium quas aqua enim quibusdam, facilis delectus obcaecati dolore optio reiciendis blanditiis architect."
+              },
+              {
+                "id": 3,
+                "title": "3 Content Title",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam nostrum corporis debitis, iste dolores saepe accusantium quas aqua enim quibusdam, facilis delectus obcaecati dolore optio reiciendis blanditiis architect."
+              }
+            ],
+            "image_grid": [],
+            "metadata": {
+              "id": 2,
+              "name": "grid-one",
+              "section_id": "grid-one",
+              "background": true
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "title": "My other page",
+        "slug": "my-other-page",
+        "createdAt": "2023-02-08T14:26:39.680Z",
+        "updatedAt": "2023-02-08T14:27:51.397Z",
+        "publishedAt": "2023-02-08T14:27:51.079Z",
+        "footer_text": "Built with ❤ by Elisa Amaral",
+        "sections": [
+          {
+            "id": 2,
+            "__component": "section.section-two-columns",
+            "title": "INTRO TITLE GOES HERE",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur necessitatibus amet atque dicta totam hic veritatis modi quas vero ullam, sunt cum explicabo unde harum? Velit nulla, perspiciatis debitis, officiis ducimus similique sapiente, fugit laudantium autem esse ipsum illo amet.",
+            "image": {
+              "data": {
+                "id": 2,
+                "attributes": {
+                  "name": "optimized-javascript-img.svg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 1030,
+                  "height": 730,
+                  "formats": null,
+                  "hash": "optimized_javascript_img_ff90d72897",
+                  "ext": ".svg",
+                  "mime": "image/svg+xml",
+                  "size": 30.77,
+                  "url": "https://res.cloudinary.com/dlc5b7iur/image/upload/v1675802221/optimized_javascript_img_ff90d72897.svg",
+                  "previewUrl": null,
+                  "provider": "cloudinary",
+                  "provider_metadata": {
+                    "public_id": "optimized_javascript_img_ff90d72897",
+                    "resource_type": "image"
+                  },
+                  "createdAt": "2023-02-07T20:37:03.169Z",
+                  "updatedAt": "2023-02-07T20:37:03.169Z"
+                }
+              }
+            },
+            "metadata": {
+              "id": 4,
+              "name": "home",
+              "section_id": "home",
+              "background": true
+            }
+          },
+          {
+            "id": 2,
+            "__component": "section.section-content",
+            "title": "FLEXBOX TEMPLATE",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime distinctio ipsa odit beatae earum alias in provident ea ratione, iure ab impedit eaque aut eligendi fugiat quibusdam deserunt ullam at iusto facilis. Veniam, repudiandae? At dolorem magnam labore saepe incidunt!\n\nDucimus, consequuntur modi nemo earum minus ipsa quidem. **Vel, porro magni, ut cupiditate **deleniti hic vitae quam expedita adipisci minima numquam consectetur aliquid facilis maxime eveniet consequatur obcaecati quos incidunt distinctio. In, fuga?\n\nTempore nesciunt inventore eius distinctio corrupti possimus magnam! _Numquam, optio aqua! _Totam neque expedita placeat repudiandae aut. Minus esse, optio eos quas unde provident quia, enim maxime amet atque autem dolores placeat nostrum ea ipsam qui rem tempora, cum nemo sequi? Totam nemo culpa iste odit.",
+            "metadata": {
+              "id": 5,
+              "name": "flexbox-template",
+              "section_id": "flexbox-template",
+              "background": false
+            }
+          },
+          {
+            "id": 3,
+            "__component": "section.section-grid",
+            "title": "GRID-ONE TEMPLATE",
+            "description": "Brief description goes here: lorem ipsum dolor sit amet",
+            "text_grid": [
+              {
+                "id": 5,
+                "title": "1 Content Title",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam nostrum corporis debitis, iste dolores saepe accusantium quas aqua enim quibusdam, facilis delectus obcaecati dolore optio reiciendis blanditiis architect."
+              },
+              {
+                "id": 6,
+                "title": "2 Content Title",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam nostrum corporis debitis, iste dolores saepe accusantium quas aqua enim quibusdam, facilis delectus obcaecati dolore optio reiciendis blanditiis architect."
+              },
+              {
+                "id": 7,
+                "title": "3 Content Title",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam nostrum corporis debitis, iste dolores saepe accusantium quas aqua enim quibusdam, facilis delectus obcaecati dolore optio reiciendis blanditiis architect."
+              }
+            ],
+            "image_grid": [],
+            "metadata": {
+              "id": 6,
+              "name": "grid-one",
+              "section_id": "grid-one",
+              "background": true
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 2
+    }
+  }
+}
