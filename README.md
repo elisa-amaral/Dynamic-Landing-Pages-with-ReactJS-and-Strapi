@@ -9,10 +9,10 @@ https://drive.google.com/file/d/1ei_INW6-xRK01xoYm4VoKAQ_pOx5t_e5/view
 ## Back-end Technology Stack
 
 + Strapi (Headless Content Manager)
-+ ElephantSQL + PostgreSQL
++ ElephantSQL + PostgreSQL (Server)
 + Cloudinary (Image Hosting)
 
-## Back-end Technology Stack
+## Front-end Technology Stack
 
 + React.js
 + Styled Components
