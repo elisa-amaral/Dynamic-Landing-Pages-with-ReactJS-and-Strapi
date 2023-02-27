@@ -6,12 +6,6 @@ This project allows users to build dynamic landing pages with React.js (front-en
 
 https://drive.google.com/file/d/1ei_INW6-xRK01xoYm4VoKAQ_pOx5t_e5/view
 
-## Back-end Technology Stack
-
-+ Strapi (Headless Content Management System)
-+ ElephantSQL + PostgreSQL (Server)
-+ Cloudinary (Image Hosting)
-
 ## Front-end Technology Stack
 
 + React.js
@@ -23,5 +17,11 @@ https://drive.google.com/file/d/1ei_INW6-xRK01xoYm4VoKAQ_pOx5t_e5/view
 + HTML
 + CSS
 + JavaScript
+
+## Back-end Technology Stack
+
++ Strapi (Headless Content Management System)
++ ElephantSQL + PostgreSQL (Server)
++ Cloudinary (Image Hosting)
 
 
