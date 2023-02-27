@@ -1,4 +1,4 @@
-# Dynamic Landing Pages with ReactJS and Strapi
+# Dynamic Landing Pages with React.js and Strapi
 
 This project allows users to build dynamic landing pages with React.js + Strapi. See the demonstration video and the complete tech stack below.
 
