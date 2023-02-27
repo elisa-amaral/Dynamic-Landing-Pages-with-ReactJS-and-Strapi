@@ -23,6 +23,6 @@ https://drive.google.com/file/d/1ei_INW6-xRK01xoYm4VoKAQ_pOx5t_e5/view
 + Strapi (Headless Content Management System)
 + ElephantSQL + PostgreSQL (Server)
 + Cloudinary (Image Hosting)
-+ JSON API (built in the project)
++ JSON API (built in/for the project)
 
 
