@@ -11,7 +11,7 @@ https://drive.google.com/file/d/1ei_INW6-xRK01xoYm4VoKAQ_pOx5t_e5/view
 + React.js
 + Styled Components
 + Storybook 
-+ Jest for Testing
++ Jest tests
 + Eslint
 + Prettier
 + HTML
@@ -23,5 +23,6 @@ https://drive.google.com/file/d/1ei_INW6-xRK01xoYm4VoKAQ_pOx5t_e5/view
 + Strapi (Headless Content Management System)
 + ElephantSQL + PostgreSQL (Server)
 + Cloudinary (Image Hosting)
++ JSON API (built in the project)
 
 
