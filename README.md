@@ -1,4 +1,4 @@
-# Dynamic Landing Pages with React.js and Strapi
+# Dynamic Landing Pages with ReactJS and Strapi
 
 This project allows users to build dynamic responsive landing pages with React.js (front-end) + Strapi Headless CMS (back-end). See the demonstration video and the complete tech stack below.
 
